@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1431140080
+Nama  : Nurcahyo Aswin Damasworo
+Kelas : MI2D
 
 Dengan ini menyatakan:
 
